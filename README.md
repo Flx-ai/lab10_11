@@ -1,6 +1,6 @@
       • Программный код
 
-!![image](https://user-images.githubusercontent.com/71172186/207457290-706fc454-81c9-4654-83d8-ed902ba26250.png)
+![image](https://user-images.githubusercontent.com/71172186/207457290-706fc454-81c9-4654-83d8-ed902ba26250.png)
 
       • Диаграмма последовательностей (вызовы методов в классе Main)
 ![image](https://user-images.githubusercontent.com/71172186/207374569-1a164f7f-77fc-48ff-86c2-9697e1962e28.png)
